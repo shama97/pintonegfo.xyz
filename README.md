@@ -1,0 +1,2 @@
+# pintonegfo.xyz
+Capstone project
